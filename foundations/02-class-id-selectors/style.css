@@ -1,4 +1,18 @@
-p {
+.main {
     background-color: pink;
     font-family: "Verdana","Dejavu Sans",sans-serif;
+}
+.bigger
+{
+    font-size: 24px;
+}
+#second
+{
+    color: blue;
+    font-size: 36px;
+}
+#fourth
+{
+    background-color: lightgreen;
+    font-weight: bold;
 }
